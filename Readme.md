@@ -8,5 +8,7 @@ output.csv will all nifty & clean data being generated.
 ## Files
 
 process.R - the code itself
+
 UCI HAR Dataset - the original data set
+
 output.csv - resulting csv file
