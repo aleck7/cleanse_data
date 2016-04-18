@@ -7,8 +7,10 @@ output.csv will all nifty & clean data being generated.
 
 ## Files
 
-process.R - the code itself
+run_analysis.R - the code itself
 
-UCI HAR Dataset - the original data set
+averages_data.txt - resulting csv file
 
-output.csv - resulting csv file
+CodeBook.md - codebook
+
+Readme.md - this file
